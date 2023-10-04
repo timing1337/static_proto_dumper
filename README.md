@@ -1,2 +1,2 @@
 # static_proto_dumper
-A proto for Genshin Impact
+A proto dumper for Genshin Impact

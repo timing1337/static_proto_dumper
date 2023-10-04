@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProtoLurker": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\GenshinDump\\4.1\\Assembly-CSharp.dll E:\\GenshinDump\\4.1\\UserAssembly.dll"
+    }
+  }
+}
